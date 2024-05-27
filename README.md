@@ -1,1 +1,1 @@
-Script will send 32-bits pings to ip address 10 times
+Script will send 32-bit pings to ip address 10 times

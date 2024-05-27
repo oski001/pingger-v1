@@ -1,0 +1,10 @@
+C:\ch\tn\niga\Nowy folder\pinnnger\pinnnger\bin\Debug\pinnnger.exe.config
+C:\ch\tn\niga\Nowy folder\pinnnger\pinnnger\bin\Debug\pinnnger.exe
+C:\ch\tn\niga\Nowy folder\pinnnger\pinnnger\bin\Debug\pinnnger.pdb
+C:\ch\tn\niga\Nowy folder\pinnnger\pinnnger\obj\Debug\pinnnger.csproj.AssemblyReference.cache
+C:\ch\tn\niga\Nowy folder\pinnnger\pinnnger\obj\Debug\pinnnger.pingger.resources
+C:\ch\tn\niga\Nowy folder\pinnnger\pinnnger\obj\Debug\pinnnger.Properties.Resources.resources
+C:\ch\tn\niga\Nowy folder\pinnnger\pinnnger\obj\Debug\pinnnger.csproj.GenerateResource.cache
+C:\ch\tn\niga\Nowy folder\pinnnger\pinnnger\obj\Debug\pinnnger.csproj.CoreCompileInputs.cache
+C:\ch\tn\niga\Nowy folder\pinnnger\pinnnger\obj\Debug\pinnnger.exe
+C:\ch\tn\niga\Nowy folder\pinnnger\pinnnger\obj\Debug\pinnnger.pdb
